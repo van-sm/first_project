@@ -1,1 +1,1 @@
-print('Hello from repository!') 
+print('Hello from notebook!') 
